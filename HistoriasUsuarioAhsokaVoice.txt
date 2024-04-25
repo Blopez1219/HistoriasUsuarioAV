@@ -1,0 +1,18 @@
+Historias de usuario: AHSOKA VOICE
+
+1. Como usuaria quiero crear un logro con los siguientes datos: título, fecha, área (personal, profesional, aprendizaje, deportiva, laboral), descripción e imagen.
+2. Como usuaria deseo poder ver un feed con todos mis logros.
+3. Como usuaria quiero ver un logro mio de forma aleatoria cuando ingreso a la plataforma y debajo ver una lista de logros de otras usuarias de forma aleatoria.
+4. Como usuaria quiero editar un logro.
+5. Como usuaria quiero eliminar un logro.
+6. Como usuaria deseo poder confirgurar un logro como oculto para verlo solo yo.
+7. Como usuario quiero darle like a un logro.
+8. Como usuaria deseo poder eliminar un like a un logro.
+9. Como usuaria deseo ver la cantidad de likes que tiene cada logro.
+10. Como usuaria quiero crear mi cuenta en AHSOKA VOICE con los siguientes datos: correo, fecha de nacimiento(Validar ser mayor de 18 años), nombre de usuaria y contraseña. Y que el sistema me envie un correo para validar la dirección de correo electrónico.
+11. Como usuaria quiero cambiar mi nombre de usuaria.
+12. Como usuaria quiero cambiar mi contraseña.
+13. Como usuaria deseo subir una imagen como foto de perfil.
+14. Como usuaria quiero eliminar mi cuenta y todos mis datos.
+15. Como usuaria deseo poder iniciar sesión con mi correo y mi contraseña.
+16. Como usuaria deseo poder descargar todos mis logros.
